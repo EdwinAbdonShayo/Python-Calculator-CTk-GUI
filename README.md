@@ -1,16 +1,16 @@
-## Python Calculator CTk (GUI)
-Introduction
+### Python Calculator CTk (GUI)
+##Introduction
 This project is a graphical user interface (GUI) calculator application built using the customtkinter library in Python. The calculator features both standard and programmer modes, offering functionalities for basic arithmetic operations, trigonometric calculations, and number system conversions (binary, decimal, hexadecimal, and octal).
 
-Features
-Standard Mode
+##Features
+#Standard Mode
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
 Trigonometric functions: sine, cosine, tangent, arcsine, arccosine, and arctangent.
 Square and square root calculations.
 Percentage and plus/minus operations.
 Clear and erase functions.
 Switching between light and dark appearance modes.
-Programmer Mode
+#Programmer Mode
 Number system conversions: binary, decimal, hexadecimal, and octal.
 Clear function.
 Switching between standard and programmer modes.
