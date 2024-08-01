@@ -17,9 +17,9 @@ This project is a graphical user interface (GUI) calculator application built us
 * Appearance mode options (light and dark).
 ## Installation
 To run this application, you'll need to have Python installed on your machine. You can install the required library ***'customtkinter'*** using pip:
-```
-bash code
 
+> bash code
+```
 pip install customtkinter
 ```
 ## Usage
